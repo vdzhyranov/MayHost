@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 123",
+      "body": "This is post body 1 for one",
+      "data": "2021-01-10"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "body": "This is post body 2",
+      "data": "01-10-2021"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "body": "This is post body 3",
+      "data": "01-10-2021"
+    },
+    {
+      "id": "4",
+      "title": "Post 4",
+      "body": "This is post body 4",
+      "data": "01-10-2021"
+    },
+    {
+      "id": "5",
+      "title": "Post 5",
+      "body": "This is post body 5",
+      "data": "01-10-2021"
+    },
+    {
+      "data": "2021-10-13",
+      "title": "Post Five",
+      "body": "Body for post 5",
+      "id": "X19iCXL"
+    },
+    {
+      "title": "Lalalala",
+      "body": "qweqweqweer",
+      "data": "2021-10-28",
+      "id": "l3H08fT"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Dzhyranov",
+      "email": "c.dzhyranov@gmail.com"
+    }
+  ]
+}
